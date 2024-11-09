@@ -66,3 +66,7 @@ links:
 https://react.dev/
 https://nodejs.org/docs/latest/api/
 https://www.omdbapi.com/
+
+**Figma Wireframe:**
+![Screenshot of the app](Downloads/Figma-Wireframe.png)
+

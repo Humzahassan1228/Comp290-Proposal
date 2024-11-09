@@ -1,4 +1,4 @@
-**##What type of project will you work on? Will it be a web app, mobile app, or something else? What will your project do?**
+**## What type of project will you work on? Will it be a web app, mobile app, or something else? What will your project do?**
 I’m working on a web app where users can search for movies they like. Based on the movies they search for, the app will provide recommendations for similar movies that they may love. The app will fetch movie data from a database API, allow users to search for their favorite films, and then use an algorithm to generate recommendations that match their interests.
 
 
@@ -7,7 +7,7 @@ I’m working on a web app where users can search for movies they like. Based on
 
 
 
-**##Why did you choose to work on this project? What motivates you to choose this topic? (Answer with a minimum of 100 words)**
+**## Why did you choose to work on this project? What motivates you to choose this topic? (Answer with a minimum of 100 words)**
 
 I decided to work on this project because I love watching movies and TV shows, but I’m always stuck trying to figure out what to watch next. Once I finish a great show or movie, I find it hard to find something similar that I’ll enjoy just as much. I know a lot of people feel the same way, and I thought it’d be really useful to create an app that can help solve that problem. By giving personalized movie recommendations based on what you like, I hope to make it easier for people to discover new shows and movies they’ll love without all the guesswork.
 
@@ -16,7 +16,7 @@ I decided to work on this project because I love watching movies and TV shows, b
 
 
 
-**##Who is the target audience of this app? Be specific about the demographic (age / occupation), the type of devices they might use (computer, Apple phone, smartwatch, etc). (Answer with a minimum of 200 words)**
+**## Who is the target audience of this app? Be specific about the demographic (age / occupation), the type of devices they might use (computer, Apple phone, smartwatch, etc). (Answer with a minimum of 200 words)**
 The target audience for this movie recommendation web app is anyone who enjoys movies and TV shows and is looking for new content to discover. However, the primary demographic falls within the age range of 18 to 45, since this group is the most active in looking for streaming content across various platforms like Netflix, Hulu, Amazon Prime, Disney+, and others. This age range includes college students, young professionals, and busy parents—all of whom frequently turn to streaming services for entertainment and relaxation during their downtime.
 
 The app is designed to be used on a wide variety of devices, making it accessible to people across different contexts. It works on computers Windows or Mac for people watching from home or at work, as well as smartphones iOS or Android, making it convenient for wherever and whenever. Tablets also serve as an ideal platform for entertainment, and the app is optimized to ensure it runs smoothly on these devices. Since it's a web app, it doesn't require specific downloads or installations, which makes it even more accessible across all devices. This flexibility means that anyone can discover new content from their home computers, work laptops.
@@ -29,7 +29,7 @@ Even though its catered towards movie/tv show enthusiats, the app can also appea
 
 
 
-**##What problem does your project hope to tackle? How will your final product help to solve this problem? How will the target audience you specified above benefit from your app? (Answer with a minimum of 200 words)**
+**## What problem does your project hope to tackle? How will your final product help to solve this problem? How will the target audience you specified above benefit from your app? (Answer with a minimum of 200 words)**
 
 The problem my project aims to tackle is the challenge of finding new movies and TV shows to watch, which is a commonly frustrating for people who love movies and tv shows but often get stuck when their tired of watching their go-tos or feel like theyve watched everything good. Many people spend a lot of time scrolling through streaming platforms, trying to find something similar to what they've enjoyed before. This leads to wasted time, as people are unsure of where to start.
 

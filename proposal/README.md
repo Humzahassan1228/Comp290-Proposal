@@ -67,6 +67,8 @@ https://react.dev/
 https://nodejs.org/docs/latest/api/
 https://www.omdbapi.com/
 
-**Figma Wireframe:**
+**Here’s a wireframe of the app designed in Figma:**
+
+
 ![Figma Wireframe](Figma-Wireframe.png)
 

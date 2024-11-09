@@ -68,5 +68,5 @@ https://nodejs.org/docs/latest/api/
 https://www.omdbapi.com/
 
 **Figma Wireframe:**
-![Screenshot of the app](Downloads/Figma-Wireframe.png)
+![Figma Wireframe](path/to/Figma-Wireframe.png)
 
